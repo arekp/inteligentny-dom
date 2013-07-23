@@ -1,0 +1,17 @@
+#summary Pomysły jak kontrolować oswietlenie
+
+= Założenia =
+
+Sterowanie oświetleniem w domu ma być możliwe z klasycznego wyłącznika jak i zdalnie.
+Należy znać stan w jakim znajduje się oświetlenie. Fajnie by było mieć możliwość regulacji jasności.
+
+
+= Szczegóły=
+
+Pierwszy pomysł jakie części użyć:
+  * Przekaźnik Bistabilny
+  * moduł do pomiaru prądu np ACS72120
+  * arduino
+  * 433MHz lub inny 
+  * przekaznik do arduino
+
