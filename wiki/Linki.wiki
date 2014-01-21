@@ -10,3 +10,4 @@ Zebrane informacje z sieci.
 Lista odnośników i pomocnych materiałów wygrzebanych z netu
   * komunikacja i biblioteki dla 315 MHz [http://www.pjrc.com/teensy/td_libs_VirtualWire.html]
   * biblioteki do wylaczników dostepnych w sklepie na 315MHz [http://code.google.com/p/rc-switch/source/checkout]
+  * Ciekawa strona gdzie zostało wykonane podpiecie 433MHz do [http://tickett.wordpress.com/tag/433mhz/]
