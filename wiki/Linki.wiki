@@ -12,3 +12,4 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
   * biblioteki do wylaczników dostepnych w sklepie na 315MHz [http://code.google.com/p/rc-switch/source/checkout]
   * Ciekawa strona gdzie zostało wykonane podpiecie 433MHz do raspberry [http://tickett.wordpress.com/tag/433mhz/]
   * Biblioteki Rasperry Pi dla 433 wyłączniki bezprzewodowe [https://github.com/r10r/rcswitch-pi]
+  * Raczej gotowa koncepcja do sterowania [http://code.google.com/p/funkcontrol-over-net/]
