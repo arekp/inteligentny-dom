@@ -19,3 +19,4 @@ Pierwszy pomysł jakie części użyć:
 FHT-7901T ver1.1
  * [http://forum.arduino.cc/index.php?topic=168124.0;wap2] - sprawdziv
  * ver 2 [http://forum.arduino.cc/index.php?topic=168124.msg1251487#msg1251487]
+ * ver 2 [http://forum.arduino.cc/index.php?PHPSESSID=ttm1nego9jgun7gl1fesaaahe0&topic=38075]
