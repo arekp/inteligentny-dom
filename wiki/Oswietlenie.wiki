@@ -15,3 +15,5 @@ Pierwszy pomysł jakie części użyć:
   * 433MHz lub inny 
   * przekaznik do arduino
   * sprawdzić RS-407M - wszystko w jednym koszt z pilotem 160
+
+FHT-7901
