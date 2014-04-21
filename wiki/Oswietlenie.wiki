@@ -16,4 +16,4 @@ Pierwszy pomysł jakie części użyć:
   * przekaznik do arduino
   * sprawdzić RS-407M - wszystko w jednym koszt z pilotem 160
 
-FHT-7901
+FHT-7901T ver1.1
