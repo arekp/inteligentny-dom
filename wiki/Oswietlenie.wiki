@@ -22,3 +22,4 @@ FHT-7901T ver1.1
  * ver 2 [http://forum.arduino.cc/index.php?PHPSESSID=ttm1nego9jgun7gl1fesaaahe0&topic=38075]
  * zweryfikować [http://linux-utils.blogspot.com/2011/08/remote-outlets-avidsen-and-chacon.html]
  * [http://randysimons.com/overige/browsable/433MHz/KaKuDecoder/KaKu_decoder_V2.pde]
+ * [http://forum.arduino.cc/index.php?topic=168124.0;wap2]
