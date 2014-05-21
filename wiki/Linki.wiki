@@ -16,3 +16,4 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
   * Biblioteki Rasperry Pi dla 433 wyłączniki bezprzewodowe [https://github.com/r10r/rcswitch-pi]
   * Raczej gotowa koncepcja do sterowania [http://code.google.com/p/funkcontrol-over-net/]
  * pomiar pradu [http://openenergymonitor.org/emon/node/58]
+ * OpenHub !!!!! [http://www.openhab.org]
