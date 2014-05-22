@@ -25,3 +25,4 @@ FHT-7901T ver1.1
  * [http://forum.arduino.cc/index.php?topic=168124.0;wap2]
  * nawet termomerty [https://bitbucket.org/fuzzillogic/433mhzforarduino/wiki/Home]
  * bilbliotek do FHT [http://wiki.openmusiclabs.com/wiki/ArduinoFHT]
+ * sterowanie oparte o RC !!!!1 [https://code.google.com/p/souliss/wiki/ss_RCSwitch]
