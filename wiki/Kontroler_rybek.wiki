@@ -1,6 +1,6 @@
 #summary do sterowania akwarium i podawania danych
 
-= założenia=
+= Założenia=
 
 Moduł ma posiadać możliwość sterowania urządzeniami w akwarium i podawać dane do centrali
 
