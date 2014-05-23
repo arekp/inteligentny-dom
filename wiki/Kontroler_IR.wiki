@@ -1,0 +1,8 @@
+#summary moduł ma pozwolić sterować tv
+
+= Założenia =
+
+Moduł ma za zadanie sterować wszystkimi urządzeniami TV, Kino domoet itd. za pomocą aplikacji umieszczonej w serwerze. 
+
+Powstanie lista komend do oprogramowania
+
