@@ -17,3 +17,4 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
   * Raczej gotowa koncepcja do sterowania [http://code.google.com/p/funkcontrol-over-net/]
  * pomiar pradu [http://openenergymonitor.org/emon/node/58]
  * OpenHub !!!!! [http://www.openhab.org] - [http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/]
+ * Centrala cubieboard I2C [http://wp.applesandoranges.eu/?p=48]
