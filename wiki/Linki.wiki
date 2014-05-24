@@ -18,3 +18,4 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
  * pomiar pradu [http://openenergymonitor.org/emon/node/58]
  * OpenHub !!!!! [http://www.openhab.org] - [http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/]
  * Centrala cubieboard I2C [http://wp.applesandoranges.eu/?p=48]
+ * Cubieboard połaczenie ardino I2C [http://abhinavgupta2812.wordpress.com/2013/08/31/cubieboard-and-arduino-via-uart/]
