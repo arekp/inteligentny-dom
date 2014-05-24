@@ -20,3 +20,4 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
  * Centrala cubieboard I2C [http://wp.applesandoranges.eu/?p=48]
  * Cubieboard połaczenie ardino I2C [http://abhinavgupta2812.wordpress.com/2013/08/31/cubieboard-and-arduino-via-uart/]
  * Do przeanalizowania spectrum linux [http://eartoearoak.com/software/rtlsdr-scanner]
+ * Raspery Pi 433MHz [https://github.com/r10r/rcswitch-pi]
