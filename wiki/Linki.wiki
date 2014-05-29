@@ -26,3 +26,4 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
 
 = cubieboard =
  * gpio [https://github.com/gootoomoon/WiringCB-python/issues/1]
+ * schemat [http://cubiebook.org/images/1/16/Gpio_defination_large.jpg]
