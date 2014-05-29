@@ -22,3 +22,7 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
  * Do przeanalizowania spectrum linux [http://eartoearoak.com/software/rtlsdr-scanner]
  * Raspery Pi 433MHz [https://github.com/r10r/rcswitch-pi]
  * Połaczenie raspery PI i arduino 433MHz [http://www.homautomation.org/2013/09/21/433mhtz-rf-communication-between-arduino-and-raspberry-pi/]
+
+
+= cubieboard =
+ * gpio [https://github.com/gootoomoon/WiringCB-python/issues/1]
