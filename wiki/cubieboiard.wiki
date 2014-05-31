@@ -1,0 +1,8 @@
+#summary wszystko co z serwerem
+
+
+
+
+= linki=
+
+ * Jak włączyć VGA w dystrybucji cubie [https://github.com/cubieplayer/Cubian/wiki/VGA-output]
