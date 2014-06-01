@@ -5,8 +5,7 @@
  Serwer stoi na maszynie CUBIEBOARD z dystrybucją linix'a cubian [http://cubian.org/].
 W momencie stawiania maszyny najnowszą wersją jest Cubian-base-r5-a20-ct.img
 
- Pierwszym krokiem oczywiście jest przeniesienie obrazu systemy 
-na kartę microSD. Do tego celu wykorzystałem program Win32DiskImager.
+ Pierwszym krokiem oczywiście jest przeniesienie obrazu systemy na kartę microSD. Do tego celu wykorzystałem program Sandomierskim.
 
 Pierwszą rzeczą jaką trzeba sprawdzić po odpaleniu to sprawdzenie adresu IP jaki został przydzielony z naszego DHCP.
  Jest kilka propozycji. pierwsza to sprawdzenie mrugania diody i z morsa dowiedzeć się jaki adres został przydzielony. Drugi sposób to na ruterze sprawdzić przydzielone adresy, lub zalogować się domyślnym userem cubie/cubie i wykonać komendę ifconfig. W przypadku ostatniego sposobu należy pamiętać że działa tylko HDMI. 
@@ -18,7 +17,46 @@ Jak piszą w celu zwiększenia bezpieczeństwa port ssh został ustawiony na 360
 ssh -p 36000 YOUR_CUBIEBOARD_IP -l cubie
 }}}
     
+ Jakoś nie czuje potrzeby zwiększania bezpieczeństwa przez zmianę portu od razu go poprawiłem
 
+{{{
+ sudo vim /etc/ssh/sshd_config
+i zmieniamy linie
+# What ports, IPs and protocols we listen for
+Port 22
+}}} 
+
+Następnie aby serwer zawsze miał stały adres konfigurujemy interfejs sieciowy. Oczywiście można to zrobić na ruterze poprzez przypisanie stałego adresu do konkretnego MAC lub zmianę konfiguracji karty.Na start nasza konfiguracja wygląda następująco
+
+{{{
+cubie@Cubian:~$ sudo cat /etc/network/interfaces
+# the loopback interface
+auto lo
+iface lo inet loopback
+
+#
+auto eth0
+iface eth0 inet dhcp
+
+}}}
+
+Aby ją zmienić należy poprawić wpis w pliku /etc/network/interfaces
+
+{{{
+ sudo vim /etc/network/interfaces
+
+# the loopback interface
+auto lo
+iface lo inet loopback
+
+#
+auto eth0
+iface eth0 inet static
+    address 192.168.1.11
+    netmask 255.255.255.0
+    gateway 192.168.1.1
+
+}}}
 
 
 = linki=
