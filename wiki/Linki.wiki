@@ -28,6 +28,7 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
  * i2c [http://docs.cubieboard.org/tutorials/cb1/development/access_at24c_eeprom_via_i2c]
   * i2c [http://www.cubieforums.com/index.php?topic=137.30]
   * i2c [http://homeduino.blogspot.com/2014/05/i2c-on-cubieboard-with-lubuntu.html]
+  * Sterowanie portami PCF8574 [http://nettigo.pl/products/121]
  * gpio [https://github.com/gootoomoon/WiringCB-python/issues/1]
  * schemat [http://cubiebook.org/images/1/16/Gpio_defination_large.jpg]
  * opis gpio [http://en.bir-robotic.ir/2014/04/gpio/]
