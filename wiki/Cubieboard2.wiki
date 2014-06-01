@@ -114,7 +114,15 @@ apt-get install cubian-update
 sudo cubian-update
 }}}
 
+== Pakiety na start ==
+W dystrybucji brakuje mi kilka pakietów lsusb lub obsługi ntfs
+Aby zainstalować je należy
 
+{{{
+ sudo apt-get install usbutils
+ sudo apt-get install ntfs-3g
+
+}}}
 == Linki ==
  * Dokumentacja [https://github.com/cubieplayer/Cubian/wiki/Get-started-with-Cubian]
  * Jak włączyć VGA w dystrybucji cubie [https://github.com/cubieplayer/Cubian/wiki/VGA-output]
