@@ -1,5 +1,5 @@
 #summary Usługi jakie powinny pojawić sie na domowym serwerze
-#labels samba,webmin,minidlna
+#labels samba,webmin,minidlna,qbittorrent-nox
 
 = Wprowadzenie =
 
@@ -7,7 +7,17 @@
 
 
 == Samba ==
+Kazdy domy serwer nie obejdzie sie bez serwera plików. A najlepiej udostepniać je za pomocą samby
 
+instalacja jest oczywista 
+{{{
+sudo apt-get install samba
+}}}
+
+
+Aby nie grzebać w plikach konfiguracje poszczególnych zasobów najlepiej zrobić za pomoca Webmin
+
+ 
 == Webmin ==
 
 Najszybszym sposobem zarządzania serwerem z poziomu web jest webmin
@@ -34,3 +44,29 @@ sudo apt-get install webmin
 
 
 == MiniDLNA ==
+
+Konfiguracja tak samo prosta
+
+{{{
+ sudo apt-get install minidlna
+
+plik konfiguracyjny 
+
+sudo vim /etc/minidlna.conf
+
+ilość plików sprawdzamy na adresie
+ http://192.168.1.11:8200/
+
+}}}
+
+== Client Torrent ==
+Najfajniejszym klientem jaki znalazłem z poziomu WWW jest qbittorrent-nox. Instaluje się go z repozytorium
+
+{{{
+sudo apt-get install qbittorrent-nox
+
+nohup qbittorrent-nox &
+
+}}}
+
+
