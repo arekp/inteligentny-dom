@@ -10,6 +10,7 @@ W momencie stawiania maszyny najnowszą wersją jest Cubian-base-r5-a20-ct.img
 Pierwszą rzeczą jaką trzeba sprawdzić po odpaleniu to sprawdzenie adresu IP jaki został przydzielony z naszego DHCP.
  Jest kilka propozycji. pierwsza to sprawdzenie mrugania diody i z morsa dowiedzeć się jaki adres został przydzielony. Drugi sposób to na ruterze sprawdzić przydzielone adresy, lub zalogować się domyślnym userem cubie/cubie i wykonać komendę ifconfig. W przypadku ostatniego sposobu należy pamiętać że działa tylko HDMI. 
 
+ == SSH ==
  W tym momencie ja wolę osobiście resztę konfiguracji wykonać zdalnie. Stąd pierwszym krokiem jest podpięcie po ssh do naszego serwera.
 Jak piszą w celu zwiększenia bezpieczeństwa port ssh został ustawiony na 36000. 
 
@@ -26,6 +27,7 @@ i zmieniamy linie
 Port 22
 }}} 
 
+ == eth0 ==
 Następnie aby serwer zawsze miał stały adres konfigurujemy interfejs sieciowy. Oczywiście można to zrobić na ruterze poprzez przypisanie stałego adresu do konkretnego MAC lub zmianę konfiguracji karty.Na start nasza konfiguracja wygląda następująco
 
 {{{
