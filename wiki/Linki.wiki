@@ -3,7 +3,7 @@
 = Wprowadzenie =
 
 Zebrane informacje z sieci.
-
+ * do przeczytania [http://and-tech.pl/wp-content/download/arduino/relay_shield.pdf]
 
 = Linki =
 
