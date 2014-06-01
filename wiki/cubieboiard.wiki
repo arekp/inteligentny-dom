@@ -1,4 +1,5 @@
 #summary wszystko co z serwerem
+#labels serwer,Cubieboard2,linux,cubie
 
 = Serce systemu = 
 
