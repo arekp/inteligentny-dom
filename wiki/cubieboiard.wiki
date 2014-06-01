@@ -60,7 +60,54 @@ iface eth0 inet static
 
 }}}
 
+ == Czas ==
 
-= linki=
+ W dokumentacji proponują ręcznie zsynchronizować czas z serwerem  ntp
+
+{{{
+cubie@Cubian:~$ sudo ntpdate-debian
+ 1 Jun 07:00:26 ntpdate[2983]: adjust time server 194.29.130.252 offset 0.000998 sec
+}}}
+
+ == VGA ==
+Jako że mam stary monitor i brak w nim gniazda HDMI dokupiłem płytkę prototypowa posiadającą wygodnie wyciągnięte piny do GPIO i gniazdo VGA [http://docs.cubieboard.org/_media/addons/selection_061.png?cache=]
+
+Aby jednak działało należ zmienić konfigurację zgodnie  z instrukcją [https://github.com/cubieplayer/Cubian/wiki/VGA-output]
+
+w skrócie potrzeba zmienić wpis poprze komende nano /boot/script.fex
+
+{{{
+nano /boot/script.fex
+
+ A tam szukamy sekcji *[disp_init]*
+
+W wierszu *screen0_output_type* mamy wpisaną wartość 3 która mówi o włączeniu HDMI
+
+Zmieniamy to na 4
+
+[disp_init]
+disp_init_enable = 1
+disp_mode = 0
+screen0_output_type = 4
+screen0_output_mode = 4
+
+wywołujemy 
+ sudo fex2bin /boot/script.fex /boot/script.bin
+
+i restartujemy 
+sudo shutdown -h now
+
+
+}}}
+
+
+ == Aktualizacja ==
+
+ Po tych wszystkich czynnościach dobrze mieć na start najnowsze wersje wszystkich bibliotek. w tym celu klasycznie
+
+{{{
+
+}}}
+== linki ==
 
  * Jak włączyć VGA w dystrybucji cubie [https://github.com/cubieplayer/Cubian/wiki/VGA-output]
