@@ -1,0 +1,36 @@
+#summary Usługi jakie powinny pojawić sie na domowym serwerze
+#labels samba,webmin,minidlna
+
+= Wprowadzenie =
+
+
+
+
+== Samba ==
+
+== Webmin ==
+
+Najszybszym sposobem zarządzania serwerem z poziomu web jest webmin
+ 
+{{{
+sudo apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python
+
+Dodajemy do  /etc/apt/sources.list  
+
+deb http://download.webmin.com/download/repository sarge contrib
+deb http://webmin.mirror.somersettechsolutions.co.uk/repository sarge contrib
+
+dodajemy klucz
+ sudo wget -O - http://www.webmin.com/jcameron-key.asc | apt-key add -
+
+lub 
+
+wget http://www.webmin.com/jcameron-key.asc
+sudo apt-key add jcameron-key.asc
+
+sudo apt-get update
+sudo apt-get install webmin
+}}}
+
+
+== MiniDLNA ==
