@@ -1,5 +1,23 @@
 #summary wszystko co z serwerem
 
+= Serce systemu = 
+
+ Serwer stoi na maszynie CUBIEBOARD z dystrybucją linix'a cubian [http://cubian.org/].
+W momencie stawiania maszyny najnowszą wersją jest Cubian-base-r5-a20-ct.img
+
+ Pierwszym krokiem oczywiście jest przeniesienie obrazu systemy 
+na kartę microSD. Do tego celu wykorzystałem program Win32DiskImager.
+
+Pierwszą rzeczą jaką trzeba sprawdzić po odpaleniu to sprawdzenie adresu IP jaki został przydzielony z naszego DHCP.
+ Jest kilka propozycji. pierwsza to sprawdzenie mrugania diody i z morsa dowiedzeć się jaki adres został przydzielony. Drugi sposób to na ruterze sprawdzić przydzielone adresy, lub zalogować się domyślnym userem cubie/cubie i wykonać komendę ifconfig. W przypadku ostatniego sposobu należy pamiętać że działa tylko HDMI. 
+
+ W tym momencie ja wolę osobiście resztę konfiguracji wykonać zdalnie. Stąd pierwszym krokiem jest podpięcie po ssh do naszego serwera.
+Jak piszą w celu zwiększenia bezpieczeństwa port ssh został ustawiony na 36000. 
+
+{{{
+ssh -p 36000 YOUR_CUBIEBOARD_IP -l cubie
+}}}
+    
 
 
 
