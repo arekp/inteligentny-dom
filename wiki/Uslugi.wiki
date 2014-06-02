@@ -44,7 +44,7 @@ sudo apt-get install webmin
 
 
 == MiniDLNA ==
-
+port 
 Konfiguracja tak samo prosta
 
 {{{
@@ -75,4 +75,5 @@ nohup qbittorrent-nox &
  Oprogramowanie do wykrywania ruchu i określenia akcji  na tej podstawie.
 
 
-== Monitoring ==
+== Monitoring - ntop ==
+ntop port 3000
