@@ -75,7 +75,4 @@ nohup qbittorrent-nox &
  Oprogramowanie do wykrywania ruchu i określenia akcji  na tej podstawie.
 
 
-== Mmonit ==
-Zawsze i wszędzie przydaje sie monitorowanie. Może dobrym rozwiązaniem będzie mmonit. Niestety brak agenta pod Windowsa.
-
-[http://mmonit.com/monit/]
+== Monitoring ==
