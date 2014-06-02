@@ -71,3 +71,11 @@ nohup qbittorrent-nox &
 
 == Motion ==
 [http://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome]
+
+ Oprogramowanie do wykrywania ruchu i określenia akcji  na tej podstawie.
+
+
+== Mmonit ==
+Zawsze i wszędzie przydaje sie monitorowanie. Może dobrym rozwiązaniem będzie mmonit. Niestety brak agenta pod Windowsa.
+
+[http://mmonit.com/monit/]
