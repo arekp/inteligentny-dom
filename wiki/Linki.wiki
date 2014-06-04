@@ -13,6 +13,7 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
   * komunikacja i biblioteki dla 315 MHz [http://www.pjrc.com/teensy/td_libs_VirtualWire.html]
   * biblioteki do wylaczników dostepnych w sklepie na 315MHz [http://code.google.com/p/rc-switch/source/checkout]
   * Inna bibliotek dla 433 [http://www.pjrc.com/teensy/td_libs_VirtualWire.html]
+  * kolrjne temat 433 [http://ninjablocks.com/blogs/how-to/7506204-adding-433-to-your-raspberry-pi]
   * VirtualWire [http://www.airspayce.com/mikem/arduino/VirtualWire/index.html]
   * Ciekawa strona gdzie zostało wykonane podpiecie 433MHz do raspberry [http://tickett.wordpress.com/tag/433mhz/]
   * Biblioteki Rasperry Pi dla 433 wyłączniki bezprzewodowe [https://github.com/r10r/rcswitch-pi]
