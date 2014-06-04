@@ -5,6 +5,7 @@
 Zebrane informacje z sieci.
  * do przeczytania [http://and-tech.pl/wp-content/download/arduino/relay_shield.pdf]
  * rapery pi ekspander [http://forum.r-pi.pl/nasze-projekty/sterownik-terrarium-t150209.html]
+ * jezyki programowania [http://elinux.org/RPi_Low-level_peripherals#GPIO_Code_examples]
 
 = Linki =
 
