@@ -4,7 +4,11 @@
 = Wprowadzenie =
 Lista portów na jakich działają usługi
  * 10000 - webmin / https
- * 8200 - MiniDLNA - l
+ * 8200 - MiniDLNA
+ * 8080 - qbittorrent-nox
+ * 3000 - ntop 
+ * 8082 motion configuracja
+ * 8083 motion webcam
 
 
 
