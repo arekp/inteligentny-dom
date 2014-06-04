@@ -83,3 +83,5 @@ nohup qbittorrent-nox &
 
 == Monitoring - ntop ==
 ntop port 3000
+
+ Monitorowanie ruchu w sieci 
