@@ -10,6 +10,7 @@ Zebrane informacje z sieci.
 = Linki =
 
 Lista odnośników i pomocnych materiałów wygrzebanych z netu
+  * odczyt [http://majsterkowo.pl/odczyt-bezprzewodowej-sondy-temperatury-i-wilgotnosci/]
   * komunikacja i biblioteki dla 315 MHz [http://www.pjrc.com/teensy/td_libs_VirtualWire.html]
   * biblioteki do wylaczników dostepnych w sklepie na 315MHz [http://code.google.com/p/rc-switch/source/checkout]
   * Inna bibliotek dla 433 [http://www.pjrc.com/teensy/td_libs_VirtualWire.html]
