@@ -9,6 +9,7 @@ Lista portów na jakich działają usługi
  * 3000 - ntop 
  * 8082 motion configuracja
  * 8083 motion webcam
+ * 8050 OpenHab
 
 
 
@@ -85,3 +86,8 @@ nohup qbittorrent-nox &
 ntop port 3000
 
  Monitorowanie ruchu w sieci 
+
+== OpenHAB ==
+port 8050
+
+* Link do modulu systemowego [https://groups.google.com/forum/#!searchin/openhab/systeminfo/openhab/18C7FYpxWTQ/BT_iGycwcKsJ]
