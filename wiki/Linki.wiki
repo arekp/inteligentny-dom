@@ -5,6 +5,8 @@
 Gotowe rozwiazania
  * [http://www.opensourceautomation.com/]
  * [http://www.freedomotic.com/]
+ * [https://play.google.com/store/apps/details?id=com.smartthings.android]
+
 
 Zebrane informacje z sieci.
  * do przeczytania [http://and-tech.pl/wp-content/download/arduino/relay_shield.pdf]
