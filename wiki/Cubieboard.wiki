@@ -1,0 +1,8 @@
+#summary Wszystko co potrzebne do skonfigurowania serwera
+
+= Start=
+
+Pierwszym elementem jest wybranie odpowiedniej biblioteki obsługującej GPIO [https://github.com/gootoomoon/WiringCB-python]
+
+Film instruktażowy
+[https://www.youtube.com/watch?v=5luIKOELtrw]
