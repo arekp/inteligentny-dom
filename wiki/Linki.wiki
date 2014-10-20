@@ -18,6 +18,7 @@ Zebrane informacje z sieci.
 
  * OpenHub !!!!! [http://www.openhab.org] - [http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/]
  * Jubito [http://jubito.org/]
+ * homeeasy [http://homeeasyhacking.wikia.com/wiki/Home_Easy_Hacking_Wiki]
 
 = Linki =
 
