@@ -14,6 +14,11 @@ Zebrane informacje z sieci.
  * jezyki programowania [http://elinux.org/RPi_Low-level_peripherals#GPIO_Code_examples]
  * GPIo sterowane przez WEB [https://code.google.com/p/webiopi/wiki/PCF8574]
 
+= Portale do zarządzania domem =
+
+ * OpenHub !!!!! [http://www.openhab.org] - [http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/]
+ * Jubito [http://jubito.org/]
+
 = Linki =
 
 Lista odnośników i pomocnych materiałów wygrzebanych z netu
@@ -27,7 +32,6 @@ Lista odnośników i pomocnych materiałów wygrzebanych z netu
   * Biblioteki Rasperry Pi dla 433 wyłączniki bezprzewodowe [https://github.com/r10r/rcswitch-pi]
   * Raczej gotowa koncepcja do sterowania [http://code.google.com/p/funkcontrol-over-net/]
  * pomiar pradu [http://openenergymonitor.org/emon/node/58]
- * OpenHub !!!!! [http://www.openhab.org] - [http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/]
  * Centrala cubieboard I2C [http://wp.applesandoranges.eu/?p=48]
  * Cubieboard połaczenie ardino I2C [http://abhinavgupta2812.wordpress.com/2013/08/31/cubieboard-and-arduino-via-uart/]
  * Do przeanalizowania spectrum linux [http://eartoearoak.com/software/rtlsdr-scanner]
