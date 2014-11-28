@@ -127,3 +127,4 @@ Aby zainstalować je należy
  * Dokumentacja [https://github.com/cubieplayer/Cubian/wiki/Get-started-with-Cubian]
  * Jak włączyć VGA w dystrybucji cubie [https://github.com/cubieplayer/Cubian/wiki/VGA-output]
  * Języki programowania GPIO [http://elinux.org/RPi_Low-level_peripherals]
+ * GPIO jaku użyć [https://abhinavgupta2812.wordpress.com/2013/08/27/configuring-the-gpio-and-uart-on-the-cubieboard/]
