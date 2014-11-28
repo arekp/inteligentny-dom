@@ -17,6 +17,7 @@ Zebrane informacje z sieci.
 = Portale do zarządzania domem =
 
  * OpenHub !!!!! [http://www.openhab.org] - [http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/]
+ * DOMOTIGA [https://www.domotiga.nl]
  * Jubito [http://jubito.org/]
  * homeeasy [http://homeeasyhacking.wikia.com/wiki/Home_Easy_Hacking_Wiki]
 
