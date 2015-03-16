@@ -1,0 +1,26 @@
+# Założenia #
+
+Sterowanie oświetleniem w domu ma być możliwe z klasycznego wyłącznika jak i zdalnie.
+Należy znać stan w jakim znajduje się oświetlenie. Fajnie by było mieć możliwość regulacji jasności.
+
+
+# Szczegóły #
+
+Pierwszy pomysł jakie części użyć:
+  * Przekaźnik Bistabilny
+  * moduł do pomiaru prądu np ACS72120
+  * arduino
+  * 433MHz lub inny
+  * przekaznik do arduino
+  * sprawdzić RS-407M - wszystko w jednym koszt z pilotem 160
+
+FHT-7901T ver1.1
+  * http://forum.arduino.cc/index.php?topic=168124.0;wap2 - sprawdziv
+  * ver 2 http://forum.arduino.cc/index.php?topic=168124.msg1251487#msg1251487
+  * ver 2 http://forum.arduino.cc/index.php?PHPSESSID=ttm1nego9jgun7gl1fesaaahe0&topic=38075
+  * zweryfikować http://linux-utils.blogspot.com/2011/08/remote-outlets-avidsen-and-chacon.html
+  * http://randysimons.com/overige/browsable/433MHz/KaKuDecoder/KaKu_decoder_V2.pde
+  * http://forum.arduino.cc/index.php?topic=168124.0;wap2
+  * nawet termomerty https://bitbucket.org/fuzzillogic/433mhzforarduino/wiki/Home
+  * bilbliotek do FHT http://wiki.openmusiclabs.com/wiki/ArduinoFHT - przykladowy kod http://forum.arduino.cc/index.php?topic=182180.0
+  * sterowanie oparte o RC !!!!1 https://code.google.com/p/souliss/wiki/ss_RCSwitch

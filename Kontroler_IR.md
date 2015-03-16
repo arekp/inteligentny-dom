@@ -1,0 +1,9 @@
+# Założenia #
+
+Moduł ma za zadanie sterować wszystkimi urządzeniami TV, Kino domoet itd. za pomocą aplikacji umieszczonej w serwerze.
+
+Powstanie lista komend do oprogramowanianie
+
+  * majsterkowo http://majsterkowo.pl/jak-sterowac-dowolnym-urzadzeniem-za-pomoca-pilota-i-arduino/
+  * IR lib https://github.com/shirriff/Arduino-IRremote
+  * Przykład 2 http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html

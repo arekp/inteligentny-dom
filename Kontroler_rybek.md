@@ -1,0 +1,13 @@
+# Założenia #
+
+Moduł ma posiadać możliwość sterowania urządzeniami w akwarium i podawać dane do centrali
+
+
+# Szczegóły #
+
+Elementy jakie będą sterowane
+  * włącz/ wyłącz pompkę
+  * włącz/ wyłącz oświetlenie
+  * włącz/ wyłącz oświetlenie szafki
+  * podaj temperaturę
+  * sterowanie po 433MHz

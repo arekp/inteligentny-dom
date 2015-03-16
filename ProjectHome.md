@@ -1,0 +1,1 @@
+Pomysłów cała masa na ten temat. podejść jeszcze więcej. Jeszcze nie znalazłem skończonego taniego zestawu dla mieszkania wiec może tutaj coś poskładam.

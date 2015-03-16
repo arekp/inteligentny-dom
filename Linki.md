@@ -1,0 +1,54 @@
+# Wprowadzenie #
+
+Gotowe rozwiazania
+  * http://www.opensourceautomation.com/
+  * http://www.freedomotic.com/
+  * https://play.google.com/store/apps/details?id=com.smartthings.android
+
+
+Zebrane informacje z sieci.
+  * do przeczytania http://and-tech.pl/wp-content/download/arduino/relay_shield.pdf
+  * rapery pi ekspander http://forum.r-pi.pl/nasze-projekty/sterownik-terrarium-t150209.html
+  * jezyki programowania http://elinux.org/RPi_Low-level_peripherals#GPIO_Code_examples
+  * GPIo sterowane przez WEB https://code.google.com/p/webiopi/wiki/PCF8574
+
+# Portale do zarządzania domem #
+
+  * OpenHub !!!!! http://www.openhab.org - http://www.gsurf.de/raspberry-pi-rcswitch-pi-und-openhab/
+  * DOMOTIGA https://www.domotiga.nl
+  * Jubito http://jubito.org/
+  * homeeasy http://homeeasyhacking.wikia.com/wiki/Home_Easy_Hacking_Wiki
+
+# Linki #
+
+Lista odnośników i pomocnych materiałów wygrzebanych z netu
+  * odczyt http://majsterkowo.pl/odczyt-bezprzewodowej-sondy-temperatury-i-wilgotnosci/
+  * komunikacja i biblioteki dla 315 MHz http://www.pjrc.com/teensy/td_libs_VirtualWire.html
+  * biblioteki do wylaczników dostepnych w sklepie na 315MHz http://code.google.com/p/rc-switch/source/checkout
+  * Inna bibliotek dla 433 http://www.pjrc.com/teensy/td_libs_VirtualWire.html
+  * kolrjne temat 433 http://ninjablocks.com/blogs/how-to/7506204-adding-433-to-your-raspberry-pi
+  * VirtualWire http://www.airspayce.com/mikem/arduino/VirtualWire/index.html
+  * Ciekawa strona gdzie zostało wykonane podpiecie 433MHz do raspberry http://tickett.wordpress.com/tag/433mhz/
+  * Biblioteki Rasperry Pi dla 433 wyłączniki bezprzewodowe https://github.com/r10r/rcswitch-pi
+  * Raczej gotowa koncepcja do sterowania http://code.google.com/p/funkcontrol-over-net/
+  * pomiar pradu http://openenergymonitor.org/emon/node/58
+  * Centrala cubieboard I2C http://wp.applesandoranges.eu/?p=48
+  * Cubieboard połaczenie ardino I2C http://abhinavgupta2812.wordpress.com/2013/08/31/cubieboard-and-arduino-via-uart/
+  * Do przeanalizowania spectrum linux http://eartoearoak.com/software/rtlsdr-scanner
+  * Raspery Pi 433MHz https://github.com/r10r/rcswitch-pi
+  * Połaczenie raspery PI i arduino 433MHz http://www.homautomation.org/2013/09/21/433mhtz-rf-communication-between-arduino-and-raspberry-pi/
+
+
+# cubieboard #
+  * i2c http://docs.cubieboard.org/tutorials/cb1/development/access_at24c_eeprom_via_i2c
+    * i2c http://www.cubieforums.com/index.php?topic=137.30
+    * i2c http://homeduino.blogspot.com/2014/05/i2c-on-cubieboard-with-lubuntu.html
+    * i2c BMP085 http://homeduino.blogspot.com/2014/05/i2c-on-cubieboard-with-lubuntu.html
+    * Sterowanie portami PCF8574 http://nettigo.pl/products/121
+      * przykład zastosowania http://edsard.nl/projects/raspberry/
+      * kolejny przykład http://garagelab.com/profiles/blogs/tutorial-arduino-i-o-port-expander-with-pcf8574
+  * gpio https://github.com/gootoomoon/WiringCB-python/issues/1
+  * schemat ![http://cubiebook.org/images/1/16/Gpio_defination_large.jpg](http://cubiebook.org/images/1/16/Gpio_defination_large.jpg)
+  * opis gpio http://en.bir-robotic.ir/2014/04/gpio/
+  * GPIO jaku użyć https://abhinavgupta2812.wordpress.com/2013/08/27/configuring-the-gpio-and-uart-on-the-cubieboard/
+  * Sensory http://www.mysensors.org/build/iot
